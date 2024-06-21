@@ -1,0 +1,17 @@
+//
+//  StemStarsApp.swift
+//  StemStars
+//
+//  Created by Katie Won on 6/20/24.
+//
+
+import SwiftUI
+
+@main
+struct StemStarsApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
