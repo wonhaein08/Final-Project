@@ -1,13 +1,13 @@
 //
-//  AboutMeProjectUITestsLaunchTests.swift
-//  AboutMeProjectUITests
+//  NavigationUITestsLaunchTests.swift
+//  NavigationUITests
 //
-//  Created by Katie Won on 6/23/24.
+//  Created by Katie Won on 6/24/24.
 //
 
 import XCTest
 
-final class AboutMeProjectUITestsLaunchTests: XCTestCase {
+final class NavigationUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

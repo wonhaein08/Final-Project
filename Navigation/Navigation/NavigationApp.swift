@@ -1,14 +1,14 @@
 //
-//  AboutMeProjectApp.swift
-//  AboutMeProject
+//  NavigationApp.swift
+//  Navigation
 //
-//  Created by Katie Won on 6/23/24.
+//  Created by Katie Won on 6/24/24.
 //
 
 import SwiftUI
 
 @main
-struct AboutMeProjectApp: App {
+struct NavigationApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
